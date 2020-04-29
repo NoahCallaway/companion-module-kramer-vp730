@@ -1,11 +1,19 @@
 {
-  "name": "kramer-vp730",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+	"name": "kramer-vp730",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Image Processing"
+	],
+	"manufacturer": "Kramer",
+	"product": "VP-730",
+	"shortname": "vp730",
+	"description": "Module to control Kramer VP 730 over RS232",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Noah Callaway <noah@thecallaways.net>",
+	"homepage": "https://www.kramerav.com/Product/VP-730",
+	"license": "MIT"
 }
